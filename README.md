@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 
-<!--
-**Navaneethanrs/Navaneethanrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Navaneethan</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Web Developer | IT Student
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Information Technology Student
+* 💻 Web Developer focused on React
+* 🌱 Exploring Full-Stack Development
+* ⚡ Passionate about coding and problem-solving
+* 🚀 Building projects and learning by creating
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github,vscode" />
+</p>
