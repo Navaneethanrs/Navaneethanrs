@@ -2,12 +2,6 @@
   <img src="./banner.png" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Navaneethan</h1>
-
-<p align="center">
-  Web Developer | IT Student
-</p>
-
 ## 🚀 About Me
 
 * 🎓 Information Technology Student
